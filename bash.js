@@ -1,1 +1,2 @@
-const exportsFrompwd = require('./pwd.js')
+const exportsFrompwd = require('./pwd')
+const exportsFromls = require('./ls')
